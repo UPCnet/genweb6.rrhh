@@ -5,13 +5,4 @@
 
     <include package="plone.app.contentmenu" />
 
-    <browser:page
-        name="view"
-        for="genweb6.rrhh.content.rrhh.rrhh.IRRHH"
-        class=".rrhh.rrhh.View"
-        layer="..interfaces.IGenweb6RRHHLayer"
-        permission="zope2.View"
-        template="rrhh/rrhh.pt"
-        />
-
 </configure>
