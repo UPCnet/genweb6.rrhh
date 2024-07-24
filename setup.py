@@ -14,7 +14,7 @@ long_description = '\n\n'.join([
 
 setup(
     name='genweb6.rrhh',
-    version='1.3.dev0',
+    version='0.1.dev0',
     description="Genweb 6 RRHH package",
     long_description=long_description,
     # Get more from https://pypi.org/classifiers/
