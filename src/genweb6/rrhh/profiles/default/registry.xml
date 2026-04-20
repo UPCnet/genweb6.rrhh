@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<registry>
+
+  <!-- folder_contents (pat-structure): plone.icon.contenttype mas portal type normalizado -->
+  <record name="plone.icon.contenttype/documentrrhh">
+    <field type="plone.registry.field.TextLine">
+      <title>RRHH document</title>
+    </field>
+    <value key="resource">++plone++bootstrap-icons/file-earmark-text.svg</value>
+  </record>
+
+</registry>
